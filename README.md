@@ -5,8 +5,10 @@ swaggerのsampleプロジェクトです
 ```
 docker-compose up
 ```
+以下のコンテナが起動します。
 
 #### swagger-ui
+[公式へのリンク](https://swagger.io/tools/swagger-ui/)
 
 #### モックサーバー
 [apisprout](https://github.com/danielgtaylor/apisprout)を使ってswaggerの定義ファイルからモックサーバーを起動します。
